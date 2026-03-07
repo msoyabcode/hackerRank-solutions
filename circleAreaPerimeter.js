@@ -29,49 +29,36 @@ function main() {
 
 // 📘 Line-by-Line Flow Summary
 // 1️⃣ const PI = Math.PI
-
 // PI naam ka constant declare hota hai
-
 // Usme π ki value store hoti hai
 
 // 2️⃣ let r = Number(readLine())
-
 // Radius input read hota hai
-
 // String ko number me convert kiya jata hai
 
 // 3️⃣ let area = PI * r * r
-
 // Area calculate hota hai (πr² formula se)
 
 // 4️⃣ console.log(area)
-
 // Area print hota hai
 
 // 5️⃣ let perimeter = 2 * PI * r
-
 // Perimeter calculate hota hai (2πr formula se)
 
 // 6️⃣ console.log(perimeter)
-
 // Perimeter print hota hai
 
 // 7️⃣ try {
-
 // Risky code block start hota hai
 
 // 8️⃣ PI = 0
-
 // Constant PI ko change karne ki koshish hoti hai
-
 // Error generate hota hai
 
 // 9️⃣ catch(error)
-
 // Error catch hota hai
 
 // 🔟 console.error(...)
-
 // Message print hota hai ki PI correctly constant declare kiya gaya
 
 // 🎯 One-Line Overall Flow
